@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8a2c6e025b10ddeaec11c830ff6ed6eb.js"
+  "/precache-manifest.b019cf46eb2f7001c443dd2baa2a00d7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "parallax-demo"});
